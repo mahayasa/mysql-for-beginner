@@ -1,1 +1,1 @@
-# mysql-for-beginner
+# MySQL for Beginner : A Course
