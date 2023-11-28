@@ -1,4 +1,4 @@
-<img src="https://github.com/mahayasa/mysql-for-beginner/blob/aab33eae6b55ec753820833e3f41cab39c269f52/for%20beginner.png" alt="Sample Image" width="100%">
+![MySQL for Beginner](./images/thumbnail.png)
 
 # MySQL for Beginner : A Course
 Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI principles and application development. Throughout this course, you will be building your own Generative AI startup so you can get an understanding of what it takes to launch your ideas. 
