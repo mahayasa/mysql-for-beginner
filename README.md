@@ -50,11 +50,15 @@ CREATE TABLE users (
 
 # Insert data into your tables using the INSERT statement:
 
-```sql INSERT INTO users (id, username, email) VALUES (1, 'john_doe', 'john@example.com'); ```
+```sql 
+INSERT INTO users (id, username, email) VALUES (1, 'john_doe', 'john@example.com');
+```
 
 # Updating and Deleting Data
 
 Learn how to update and delete records in your tables:
 
-```sql UPDATE users SET email = 'new_email@example.com' WHERE id = 1; 
-DELETE FROM users WHERE id = 1; ```
+```sql
+UPDATE users SET email = 'new_email@example.com' WHERE id = 1; 
+DELETE FROM users WHERE id = 1;
+```
