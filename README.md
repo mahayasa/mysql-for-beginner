@@ -13,7 +13,6 @@ Welcome to the MySQL for Beginners repository! This guide is designed to help yo
 - [Inserting Data](#inserting-data)
 - [Querying Data](#querying-data)
 - [Updating and Deleting Data](#updating-and-deleting-data)
-- [Advanced Topics](#advanced-topics)
 - [Resources](#resources)
 
 ## Introduction
@@ -48,13 +47,13 @@ CREATE TABLE users (
 );
 ```
 
-# Insert data into your tables using the INSERT statement:
+## Insert data into your tables using the INSERT statement:
 
 ```sql 
 INSERT INTO users (id, username, email) VALUES (1, 'john_doe', 'john@example.com');
 ```
 
-# Updating and Deleting Data
+## Updating and Deleting Data
 
 Learn how to update and delete records in your tables:
 
