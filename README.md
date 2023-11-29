@@ -3,17 +3,6 @@
 # MySQL for Beginner : A Course
 Welcome to the MySQL for Beginners repository! This guide is designed to help you get started with MySQL, a popular open-source relational database management system.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Connecting to MySQL](#connecting-to-mysql)
-- [Basic Queries](#basic-queries)
-- [Creating a Database](#creating-a-database)
-- [Creating Tables](#creating-tables)
-- [Inserting Data](#inserting-data)
-- [Querying Data](#querying-data)
-- [Updating and Deleting Data](#updating-and-deleting-data)
-- [Resources](#resources)
 
 ## Introduction
 
