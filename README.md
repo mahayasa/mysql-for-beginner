@@ -1,6 +1,6 @@
-![MySQL for Beginner](./images/thumbnail.png)
+![MySQL for Beginners](./images/thumbnail.png)
 
-# MySQL for Beginner : A Course
+# MySQL for Beginners : A Course
 Welcome to the MySQL for Beginners repository! This guide is designed to help you get started with MySQL, a popular open-source relational database management system.
 
 
