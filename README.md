@@ -50,3 +50,7 @@ Learn how to update and delete records in your tables:
 UPDATE users SET email = 'new_email@example.com' WHERE id = 1; 
 DELETE FROM users WHERE id = 1;
 ```
+## Course Part
+|       |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
+| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| 01 | [MySQL Tools](./01-tools-setup/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
