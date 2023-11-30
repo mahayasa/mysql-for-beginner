@@ -57,3 +57,13 @@ JOIN customers ON orders.customer_id = customers.customer_id;
 ## Conclusion
 
 Understanding primary and foreign keys is crucial for designing well-structured databases. These keys establish relationships between tables, ensuring data integrity and consistency.
+
+# Resources
+
+This section provides links to valuable resources for learning and working with SQL.
+
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+Feel free to explore these resources to enhance your understanding of SQL concepts and improve your database management skills.
