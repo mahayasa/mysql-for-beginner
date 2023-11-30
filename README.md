@@ -53,11 +53,11 @@ DELETE FROM users WHERE id = 1;
 ## Course Part
 |       |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 01 | [MySQL Tools](./01-tools-setup/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 02 | [SQL Basic Concept](./02-sql-basic-concept/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 03 | [Numerical Operation](./03-numerical-operation/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 04 | [Join Statement](./04-join-statement/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 05 | [Other Operation](./05-other-operation/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 06 | [SQL Function](./06-sql-function/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 07 | [SQL Procedure](./07-sql-procedure/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
-| 08 | [Final Project](./08-project-based/README.md) | Tech setup and course structure | Setting you up for success while learning in this course| 
+| 01 | [MySQL Tools](./01-tools-setup/README.md) | material setup  |  installed and configured XAMPP and PHPMyAdmin on your computer.| 
+| 02 | [SQL Basic Concept](./02-sql-basic-concept/README.md) | primary and foreign key | Understanding primary and foreign keys is crucial for designing well-structured databases. | 
+| 03 | [Numerical Operation](./03-numerical-operation/README.md) |  | | 
+| 04 | [Join Statement](./04-join-statement/README.md) |  | | 
+| 05 | [Other Operation](./05-other-operation/README.md) |  | | 
+| 06 | [SQL Function](./06-sql-function/README.md) | | | 
+| 07 | [SQL Procedure](./07-sql-procedure/README.md) | | | 
+| 08 | [Final Project](./08-project-based/README.md) | | | 
