@@ -55,7 +55,7 @@ DELETE FROM users WHERE id = 1;
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
 | 01 | [MySQL Tools](./01-tools-setup/README.md) | material setup  |  installed and configured XAMPP and PHPMyAdmin on your computer.| 
 | 02 | [SQL Basic Concept](./02-sql-basic-concept/README.md) | primary and foreign key | Understanding primary and foreign keys is crucial for designing well-structured databases. | 
-| 03 | [agregate Operation](./03-agregate-operation/README.md) | SQL COUNT,SUM,AVG,MAX,MIN | performing calculations and extracting insights from our database. | 
+| 03 | [agregate Operation](./03-agregate-operation/README.md) | COUNT,SUM,AVG,MAX,MIN | performing calculations and extracting insights from our database. | 
 | 04 | [Join Statement](./04-join-statement/README.md) |  | | 
 | 05 | [Other Operation](./05-other-operation/README.md) |  | | 
 | 06 | [SQL Function](./06-sql-function/README.md) | | | 
