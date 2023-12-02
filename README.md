@@ -57,7 +57,7 @@ DELETE FROM users WHERE id = 1;
 | 02 | [SQL Basic Concept](./02-sql-basic-concept/README.md) | primary and foreign key | Understanding primary and foreign keys is crucial for designing well-structured databases. | 
 | 03 | [Conditional Operation](./03-conditional-operation/README.md) |WHERE, ORDER BY, GROUP BY, and HAVING|understanding filter, sort, group, and apply conditions to your databases. | 
 | 04 | [agregate Operation](./04-agregate-operation/README.md) |COUNT,SUM,AVG,MAX,MIN| performing calculations and extracting insights from our database. | 
-| 05 | [Join Statement](./05-join-statement/README.md) |INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN|Understanding the differences between join queries is crucial for writing effective queries.| 
+| 05 | [Join Statement](./05-join-statement/README.md) |INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN|Understanding the differences between join queries| 
 | 06 | [SQL Function](./06-sql-function/README.md) | come soon | | 
 | 07 | [SQL Procedure](./07-sql-procedure/README.md) | come soon | | 
 | 08 | [Final Project](./08-project-based/README.md) | come soon | | 
