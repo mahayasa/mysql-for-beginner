@@ -55,9 +55,9 @@ DELETE FROM users WHERE id = 1;
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
 | 01 | [MySQL Tools](./01-tools-setup/README.md) | material setup  |  installed and configured XAMPP and PHPMyAdmin on your computer.| 
 | 02 | [SQL Basic Concept](./02-sql-basic-concept/README.md) | primary and foreign key | Understanding primary and foreign keys is crucial for designing well-structured databases. | 
-| 03 | [agregate Operation](./03-agregate-operation/README.md) | COUNT,SUM,AVG,MAX,MIN | performing calculations and extracting insights from our database. | 
-| 04 | [Join Statement](./04-join-statement/README.md) | come soon | | 
-| 05 | [Other Operation](./05-other-operation/README.md) | come soon | | 
+| 03 | [Conditional Operation](./03-conditional-operation/README.md) |WHERE, ORDER BY, GROUP BY, and HAVING|understanding filter, sort, group, and apply conditions to your databases. | 
+| 04 | [agregate Operation](./04-agregate-operation/README.md) |COUNT,SUM,AVG,MAX,MIN| performing calculations and extracting insights from our database. | 
+| 05 | [Join Statement](./05-join-statement/README.md) |INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN|Understanding the differences between join queries is crucial for writing effective queries.| 
 | 06 | [SQL Function](./06-sql-function/README.md) | come soon | | 
 | 07 | [SQL Procedure](./07-sql-procedure/README.md) | come soon | | 
 | 08 | [Final Project](./08-project-based/README.md) | come soon | | 
